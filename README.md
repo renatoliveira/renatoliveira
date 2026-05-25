@@ -17,4 +17,14 @@ Really enjoy contributing to open source projects, being one of the latest the [
 
 ### Reaching me
 
-For contributions feel free to create issues and pull requests in my repositories. For direct contact, reach me at `renato.oliveira at dogeforce.com`.
+For contributions feel free to create issues and pull requests in my repositories. For direct contact, reach me at `renato.oliveira at dogeforce.com`. If you are using Keybase.io, feel free to send me a message in there too.
+
+## Always Learning
+
+I'm very fond on learning things that make my job easier (work smarter, not harder!) and things outside the Salesforce ecossystem too.
+
+Currently on the path of learning Go and possibly evolving to learning Rust sometime in the future (oh god why).
+
+<p align="right">
+  <img src="https://api.boot.dev/v1/users/public/92da9b32-35d3-4c84-b3b5-0a136e3e386e/thumbnail" width="400" >
+</p>
