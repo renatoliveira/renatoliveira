@@ -18,3 +18,17 @@ Really enjoy contributing to open source projects, being one of the latest the [
 ### Reaching me
 
 For contributions feel free to create issues and pull requests in my repositories. For direct contact, reach me at `renato.oliveira at dogeforce.com`. If you are using Keybase.io, feel free to send me a message in there too.
+
+## Toolset
+
+Code editor: Visual Studio Code
+Agents: Cursor/Claude
+
+### Preferred Salesforce-related things:
+
+Trigger framework: [Apex Trigger Handler](https://github.com/apexfarm/ApexTriggerHandler) by Jianfeng Jin
+Logging tool: [Nebula Logger](https://github.com/jongpie/NebulaLogger)
+
+### CI/CD
+
+[Apex Test List](https://github.com/wisefoxme/apex-test-list) for listing only relevant Apex tests and [SGD (sfdx-git-delta)](https://github.com/scolladon/sfdx-git-delta) for getting only relevant diffs to deploy to orgs.
